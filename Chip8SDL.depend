@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1491232341 source:c:\users\carl\dropbox\emulation\chip8sdl\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<SDL.h>
+
+1490626345 source:f:\dropbox\emulation\chip8sdl\emulator.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<SDL.h>
+
+1491128877 source:f:\dropbox\emulation\chip8sdl\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<SDL.h>
+
+1491234541 source:c:\users\carl\dropbox\emulation\chip8sdl\emulator.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<SDL.h>
+
